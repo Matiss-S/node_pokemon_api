@@ -1,0 +1,19 @@
+{
+  "name": "node_pokemon_api",
+  "version": "1.0.0",
+  "description": "test of node and api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/matiss_sevette/node_pokemon_api.git"
+  },
+  "author": "Matiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/matiss_sevette/node_pokemon_api/issues"
+  },
+  "homepage": "https://gitlab.com/matiss_sevette/node_pokemon_api#readme"
+}
